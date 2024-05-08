@@ -1,4 +1,4 @@
-# dr.kulla.ee
+# dr.kulla.ee subdomain takeover by ibrahimatix0x01
 
 
-subdomain takeover by ibrahimatix0x01
+
